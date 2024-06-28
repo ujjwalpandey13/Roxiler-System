@@ -25,8 +25,5 @@ This repository contains a MERN stack project that includes backend and frontend
 
 ![image alt](https://github.com/ujjwalpandey13/Roxiler-System/blob/946906eea6ef17fae75a828a48807ecc9c5d0b78/image-1.jpg)
 
-https://raw.githubusercontent.com/ujjwalpandey13/Roxiler-System/master/image-1.jpg
-https://raw.githubusercontent.com/ujjwalpandey13/Roxiler-System/master/image-2.jpg
-https://raw.githubusercontent.com/ujjwalpandey13/Roxiler-System/master/image-3.jpg
-https://raw.githubusercontent.com/ujjwalpandey13/Roxiler-System/master/image-4.jpg
+https://github.com/ujjwalpandey13/Roxiler-System/blob/946906eea6ef17fae75a828a48807ecc9c5d0b78/image-1.jpg
 
