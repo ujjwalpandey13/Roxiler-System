@@ -1,0 +1,32 @@
+/* src/styles/styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  input[type="text"] {
+    margin-bottom: 20px;
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  select {
+    margin-bottom: 20px;
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  button {
+    margin: 5px;
+    padding: 10px;
+  }
+  
