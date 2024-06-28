@@ -23,5 +23,5 @@ This repository contains a MERN stack project that includes backend and frontend
 - Display a pie chart with unique categories and item counts.
 - Allow month selection from a dropdown (default is March).
 
-![image alt](https://github.com/ujjwalpandey13/Roxiler-System/blob/009744c93a834e84a2fe700504b59ab3a9e241b8/Screenshot%202024-06-29%20025802.png)
+![image alt](https://github.com/ujjwalpandey13/Roxiler-System/blob/946906eea6ef17fae75a828a48807ecc9c5d0b78/image-1.jpg)
 
