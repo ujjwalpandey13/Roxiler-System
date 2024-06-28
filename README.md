@@ -23,15 +23,20 @@ This repository contains a MERN stack project that includes backend and frontend
 - Display a pie chart with unique categories and item counts.
 - Allow month selection from a dropdown (default is March).
 
-![image-1](https://github.com/ujjwalpandey13/Roxiler-System/blob/29310b8ee6925a67ca5d960ea40f22c3414720ef/image-1.jpg)
 
+## Output
 
-![image-2](https://github.com/ujjwalpandey13/Roxiler-System/blob/29310b8ee6925a67ca5d960ea40f22c3414720ef/image-2.jpg)
+#### - Allow month selection from a dropdown (default is March).
+![Screenshot 2024-06-29 025802](https://github.com/ujjwalpandey13/Roxiler-System/assets/89192530/67d0b863-f848-48ea-8874-aae6df727081)
 
+#### -  Display transactions in a table with  pagination. Show monthly statistics for total sale amount, sold items, and not sold items, as well as fetch the data and store data in table with attributes - Title  , Discription , Price , Date Of Sale and Sold Status.
 
-![image-3](https://github.com/ujjwalpandey13/Roxiler-System/blob/29310b8ee6925a67ca5d960ea40f22c3414720ef/image-3.jpg)
+![Screenshot 2024-06-29 025938](https://github.com/ujjwalpandey13/Roxiler-System/assets/89192530/1d7b71f9-4ac4-4aab-aa93-fee5b370dca4)
 
-![image-4](https://github.com/ujjwalpandey13/Roxiler-System/blob/29310b8ee6925a67ca5d960ea40f22c3414720ef/image-4.jpg)
+#### - Display a bar chart with price ranges and item counts.
 
+![Screenshot 2024-06-29 030011](https://github.com/ujjwalpandey13/Roxiler-System/assets/89192530/ed278303-25df-4c8b-9615-8ead36a3c84d)
 
+#### - Display a pie chart with categories and item counts.
 
+![Screenshot 2024-06-29 030031](https://github.com/ujjwalpandey13/Roxiler-System/assets/89192530/40e6cd44-afa1-492a-b381-d844cdf154a0)
